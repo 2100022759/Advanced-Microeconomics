@@ -1,5 +1,4 @@
 # Advanced-Microeconomics
-Game Theory for PHD in ECON.PKU 
 This is the second half of the first-year Ph.D. course in microeconomic theory. 
 This half is an introduction to the principles of game theory at a graduate level, including both 
 theory and applications.
